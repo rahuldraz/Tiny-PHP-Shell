@@ -11,6 +11,6 @@ A 3KB tiny php based web shell for backdoor.
 
 
 #### View
-![Example1](https://raw.githubusercontent.com/rahuldraz/Tiny-PHP-Shell/master/Tiny.png)
+![Example1](https://raw.githubusercontent.com/rahuldraz/Tiny-PHP-Shell/master/shell.png)
 
 
