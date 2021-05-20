@@ -1,20 +1,16 @@
-# Tiny-php-shell
+# 3KB Tiny PHP Based Web Shell
 
 A 3KB tiny php based web shell for backdoor.
 
+## Features
+
+- Fully encoded and compressed to 3KB
+- Fully functional file manager  
+- Non Detectable by most of the WAF's 
 
 
-# Features
 
-->Password Protected(Login Based)
+#### View
+![Example1](https://raw.githubusercontent.com/rahuldraz/Tiny-PHP-Shell/master/Tiny.png)
 
-->Full File Operation Support
-
-->Compressed/Encrypted
-
-->Exec 
-
-->PHP Code Execution
-
-->Upload Option
 
