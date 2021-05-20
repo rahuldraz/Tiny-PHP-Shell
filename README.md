@@ -7,6 +7,7 @@ A 3KB tiny php based web shell for backdoor.
 - Fully encoded and compressed to 3KB
 - Fully functional file manager  
 - Non Detectable by most of the WAF's 
+- Password Protected
 
 #### Default password for this shell is raz
 
